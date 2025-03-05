@@ -1,16 +1,6 @@
 # Marcos Gimenes
 Olá! Pode me chamar de Marquinhos. Sou um desenvolvedor em formação apaixonado por tecnologia e programação.
-Atualmente estou cursando TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) na IFPR Campus Cascavel.
-
-## 🚀 Projetos em Destaque
-
-Aqui estão alguns dos meus projetos públicos no GitHub:
-
-- [**Security Key**](https://github.com/MarcosFGimenes/security-key): Um projeto desenvolvido em Flutter que visa fornecer uma maneira segura e eficiente de gerenciar mecanismos de autenticação para usuários.
-
-- [**mgPortfolio**](https://github.com/MarcosFGimenes/mgPortfolio): Meu portfólio pessoal, onde apresento meus trabalhos e experiências
-
-- [**estudos-java**](https://github.com/MarcosFGimenes/estudos-java): Um repositório criado para guardar exercícios práticos realizados durante meus estudos em Java. 
+Atualmente estou cursando TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) na IFPR Campus Cascavel, além de mergulhar em diversos cursos, meetups e bootcamps para estar sempre aprimorando meus conhecimentos.
 
 ## 📫 Contatos
 Aproveitando que você está aqui, que tal se conectar comigo no LinkedIn, dar uma olhada no meu portfólio e me seguir no GitHub? Valeu, meu amigo!
